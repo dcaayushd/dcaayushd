@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.aayushdangi.com.np](https://www.aayushdangi.com.np)
 
-- 💬 Ask me about **Dart,Flutter**
+- 💬 Ask me about **Dart, Flutter**
 
 - 📫 How to reach me **aayuschdc1234@gmail.com**
 
