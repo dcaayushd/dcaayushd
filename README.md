@@ -6,8 +6,7 @@
 - 🤷‍♂️ I did Java
 - 🤷‍♂️ I did Android 
 - 🤷‍♂️ I'm currently learning Flutter
-- 💞️ I’m looking to collaborate on  ...
-- 📫 How to reach me: Twitter - @xx_aayyyyyush_5 , Email- aayushdc1234@gmail.com 
+- 📫 How to reach me: Twitter - @aayyyyyush , Email- aayushdc1234@gmail.com 
 
 <!---
 aayushdc/aayushdc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
