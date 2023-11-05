@@ -11,4 +11,4 @@
 
 ![image](https://github.com/aayushdc/aayushdc/assets/89606048/c00e0c7c-9e06-40b5-8e85-fbd09af1b454)
 
-[![aayushdc](https://img.youtube.com/vi/YOUTUBE_VI...)](https://www.youtube.com/channel/UCe_2dTXp7sI2u0C-1o9o_ZA)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UCe_2dTXp7sI2u0C-1o9o_ZA/0.jpg)](https://www.youtube.com/channel/UCe_2dTXp7sI2u0C-1o9o_ZA)
