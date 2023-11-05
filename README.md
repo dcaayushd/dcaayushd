@@ -8,7 +8,5 @@
 - 🤷‍♂️ I'm currently learning Flutter
 - 📫 How to reach me: Twitter - @aayyyyyush , Email- aayushdc1234@gmail.com 
 
-<!---
-aayushdc/aayushdc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![image](https://github.com/aayushdc/aayushdc/assets/89606048/c00e0c7c-9e06-40b5-8e85-fbd09af1b454)
