@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Dc</h1>
 <h3 align="center">A passionate flutter developer from Nepal</h3>
 
-<img align=“right” alt=“coding” width=“400” src”https://user-images.githubusercontent.com/89606048/280523253-c00e0c7c-9e06-40b5-8e85-fbd09af1b454.gif”>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/89606048/280523253-c00e0c7c-9e06-40b5-8e85-fbd09af1b454.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayyyyyush&label=Profile%20views&color=0e75b6&style=flat" alt="aayyyyyush" /> </p>
 
