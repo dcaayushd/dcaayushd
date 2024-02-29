@@ -3,9 +3,9 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/89606048/280523253-c00e0c7c-9e06-40b5-8e85-fbd09af1b454.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayyyyyush&label=Profile%20views&color=0e75b6&style=flat" alt="aayyyyyush" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dcaayushd&label=Profile%20views&color=0e75b6&style=flat" alt="dcaayushd" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dcaayushd" target="blank"><img src="https://img.shields.io/twitter/follow/aayyyyyyush?logo=twitter&style=for-the-badge" alt="aayyyyyyush" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dcaayushd" target="blank"><img src="https://img.shields.io/twitter/follow/aayyyyyyush?logo=twitter&style=for-the-badge" alt="dcaayushd" /></a> </p>
 
 - 🔭 I’m currently working on **Projectify**
 
