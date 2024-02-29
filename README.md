@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Projectify**
 
-- 🌱 I’m currently learning **Flutter & NOde.js**
+- 🌱 I’m currently learning **Flutter & Node.js**
 
 - 👨‍💻 All of my projects are available at [https://www.aayushdangi.com.np](https://www.aayushdangi.com.np)
 
@@ -26,7 +26,7 @@
 <a href="https://twitter.com/dcaayushd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dcaayushd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dcaayushd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dcaayushd" height="30" width="40" /></a>
 <a href="https://fb.com/dcaayushd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dcaayushd" height="30" width="40" /></a>
-<a href="https://instagram.com/dcaayushd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dcaayushd" height="30" width="40" /></a>
+<a href="https://instagram.com/@dcaayushd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dcaayushd" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@dcaayushd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dcaayushd" height="30" width="40" /></a>
 </p>
 
@@ -52,9 +52,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aayyyyyush"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aayyyyyush" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayyyyyush&show_icons=true&locale=en&layout=compact" alt="aayyyyyush" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayyyyyush&" alt="aayyyyyush" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayyyyyush&show_icons=true&locale=en" alt="aayyyyyush" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dcaayushd&show_icons=true&locale=en&layout=compact" alt="dcaayushd" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dcaayushd&" alt="dcaayushd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dcaayushd&show_icons=true&locale=en" alt="dcaayushd" /></p>
 
 
   
