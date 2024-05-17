@@ -1,6 +1,6 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=dcaayushd&label=Visitors&color=dc143c&style=flat" alt="dcaayushd" /> </p>
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Aayush D.C Dangi</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dcaayushd&label=Profile%20views&color=dc143c&style=flat" alt="dcaayushd" /> </p>
 <div> <a href="https://twitter.com/dcaayushd" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/dcaayushd" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/dcaayushd" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
