@@ -35,10 +35,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aayyyyyush"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aayyyyyush" /></a><a href="https://ko-fi.com/dcaayushd"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dcaayushd" /></a></p><br><br>
 
-<h3 align="left">Stars</h3>
+ <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcaayushd&layout=compact&theme=tokyonight" alt=dcaayushd />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=dcaayushd&show_icons=true&locale=en&theme=tokyonight" alt="dcaayushd" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dcaayushd&theme=tokyonight" alt="dcaayushd" /></p>
 
@@ -48,7 +46,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dcaayushd&theme=tokyonight" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dcaayushd&theme=tokyonight" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dcaayushd&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dcaayushd&theme=tokyonight" height="180em" />
+
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dcaayushd&theme=tokyonight" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
@@ -57,5 +55,4 @@
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 <!-- ![snake gif](https://github.com/dcaayushd/dcaayushd/blob/output/github-contribution-grid-snake.gif) -->
-
 
