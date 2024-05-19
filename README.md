@@ -35,23 +35,16 @@
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dcaayushd&theme=tokyonight" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dcaayushd&theme=tokyonight"/>
 </p>
 
 
 ## 💰You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dcaayushd) [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dcaayushd) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/dcaayushd) 
 
-
+##
 ![snake gif](https://github.com/dcaayushd/dcaayushd/blob/output/github-contribution-grid-snake.gif) 
-
-
-###
-
 <img src="https://raw.githubusercontent.com/dcaayushd/dcaayushd/output/snake.svg" alt="Snake animation" />
 
-###
-
-### Show some ❤️ by starring some of the repositories!
-
+## Show some ❤️ by starring some of the repositories!
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
