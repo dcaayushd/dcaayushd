@@ -6,7 +6,6 @@
          width="45" /> I'm Aayush D.C Dangi</h1>
 
 # 💫 About Me :
-- 😄 Pronouns: He/His
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: Flutter was almost named “Sky” during its early development days.
