@@ -21,10 +21,11 @@
 ## 📟 GitHub Stats
 <p>
  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dcaayushd&theme=tokyonight" alt="dcaayushd"/>
+
+ <!--  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dcaayushd&show_icons=true&theme=tokyonight" height="180em"/>-->
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcaayushd&layout=compact&theme=tokyonight" alt=dcaayushd/> 
+<!--  <img align="center"height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dcaayushd&layout=compact&theme=tokyonight" /> -->
  <img align="center"height="180em" src="https://github-readme-stats.vercel.app/api?username=dcaayushd&show_icons=true&theme=tokyonight"/>
- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dcaayushd&show_icons=true&theme=tokyonight" height="180em"/>
- <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcaayushd&layout=compact&theme=tokyonight" alt=dcaayushd/>
- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dcaayushd&show_icons=true&theme=tokyonight" height="180em"/>
  </p>
 
 ## 📈 Activity Graph
