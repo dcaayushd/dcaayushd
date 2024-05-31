@@ -32,10 +32,10 @@
 	<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dcaayushd&theme=tokyo-night"/>
 </p>
 
-## 💳 Github Profile Summary Card
+<!-- ## 💳 Github Profile Summary Card
 <p align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dcaayushd&theme=tokyonight"/>
-</p>
+</p> -->
 
 
 ## 💰You can help me by Donating
