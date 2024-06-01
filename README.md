@@ -1,9 +1,11 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dcaayushd&label=Visitors&color=dc143c&style=flat" alt="dcaayushd" /> </p>
+
 <!-- <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" /> -->
-<!-- <p align="center">
+
+<p align="center">
   <a href="https://github.com/dcaayushd">
 	<img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Aayush D.C Dangi" /></a>
-</p> -->
+</p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
 	<img src="https://readme-typing-svg.demolab.com/?lines=Flutter%20and%20Node.js%20App%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
@@ -23,22 +25,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@dcaayushd)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@aayushdc1234)
 
-
-<!--
-## 📟 GitHub Stats
-<p>
- <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dcaayushd&theme=tokyonight" alt="dcaayushd"/>
-
- <!--  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dcaayushd&show_icons=true&theme=tokyonight" height="180em"/>-->
- <!--
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcaayushd&layout=compact&theme=tokyonight" alt=dcaayushd/>
-<!--  <img align="center"height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dcaayushd&layout=compact&theme=tokyonight" /> -->
- <!--
- <img align="center"height="180em" src="https://github-readme-stats.vercel.app/api?username=dcaayushd&show_icons=true&theme=tokyonight"/>
- </p>
--->
-
-# 💻Tech Stack
+# 🧰 Tech Stack
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white") ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white) ![Repl.it](https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white) 
@@ -58,11 +45,12 @@
 
 
 
-# 📊GitHub Stats :
-![](https://github-readme-streak-stats.herokuapp.com/?user=dcaayushd&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=dcaayushd&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dcaayushd&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+ 
+# 📊GitHub Stats :
+![](https://github-readme-streak-stats.herokuapp.com/?user=dcaayushd&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=dcaayushd&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dcaayushd&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📈 Activity Graph
 <p align="center">
@@ -85,7 +73,6 @@
 ![snake gif](https://github.com/dcaayushd/dcaayushd/blob/output/github-contribution-grid-snake.gif)
 <img src="https://raw.githubusercontent.com/dcaayushd/dcaayushd/output/snake.svg" alt="Snake animation" /> -->
 
-## Show some ❤️ by starring some of the repositories!
 <!-- <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" /> -->
 
 
