@@ -1,6 +1,18 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dcaayushd&label=Visitors&color=dc143c&style=flat" alt="dcaayushd" /> </p>
 
 <!-- <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" /> -->
+<!-- <p align="center">
+  <a href="https://github.com/dcaayushd">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Aayush D.C Dangi" />
+  </a> -->
+</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=31&pause=1000&color=F75B93&random=false&width=435&lines=Flutter+%26+Node.js+Developer" alt="Typing SVG" />
+  </a>
+</div>
+
+
 
 # 💫 About Me :
 - 💬 Ask me about Flutter or Node.js.
