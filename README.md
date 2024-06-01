@@ -2,16 +2,6 @@
 
 <!-- <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" /> -->
 
-<p align="center">
-  <a href="https://github.com/dcaayushd">
-	<img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Aayush D.C Dangi" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-	<img src="https://readme-typing-svg.demolab.com/?lines=Flutter%20and%20Node.js%20App%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
-
-
 # 💫 About Me :
 - 💬 Ask me about Flutter or Node.js.
 - 📫 How to reach me: Check social links below.
