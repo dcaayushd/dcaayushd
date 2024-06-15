@@ -3,7 +3,7 @@
 <!-- <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" /> -->
 </p>
 <div align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="#">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=31&pause=1000&color=F75B93&random=false&width=500&lines=Flutter+%26+Node.js+Developer" alt="Typing SVG" />
   </a>
 </div>
