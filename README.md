@@ -12,9 +12,9 @@
 
 # 💫 About Me :
 - 💬 Ask me about Flutter or Node.js.
-- 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: Flutter was almost named “Sky” during its early development days.
 - 💼 [MY Portfolio](https://dcaayushd.github.io/Portfolio-2024/)
+- 📫 How to reach me: Check social links below.
 
 ## 🌐 Socials
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/dcaayushd)
