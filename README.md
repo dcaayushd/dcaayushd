@@ -48,9 +48,8 @@
  
 # 📊GitHub Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dcaayushd&theme=radical&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dcaayushd&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=donut)
 ![](https://github-readme-stats.vercel.app/api?username=dcaayushd&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dcaayushd&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=donut&hide_progress=true)
 
 ## 📈 Activity Graph
 <p align="center">
