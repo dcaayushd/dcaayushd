@@ -11,7 +11,7 @@
 
 
 # 💫 About Me :
-- 💬 Ask me about Flutter or Node.js.
+- 💬 Ask me about Flutter and Node.js.
 - ⚡ Fun fact: Flutter was almost named “Sky” during its early development days.
 - 💼 [MY Portfolio](https://dcaayushd.github.io/Portfolio-2024/)
 - 📫 How to reach me: Check social links below.
