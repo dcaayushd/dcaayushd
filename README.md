@@ -47,9 +47,9 @@
 
  
 # 📊GitHub Stats :
-![](https://github-readme-streak-stats.herokuapp.com/?user=dcaayushd&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=dcaayushd&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dcaayushd&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![dcaayushd's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dcaayushd&theme=vue-dark&hide_border=false)
+![dcaayushd's Stats](https://github-readme-stats.vercel.app/api?username=dcaayushd&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![dcaayushd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dcaayushd&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&card_width=500&langs_count=8)
 
 ## 📈 Activity Graph
 <p align="center">
